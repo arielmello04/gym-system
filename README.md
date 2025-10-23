@@ -107,7 +107,7 @@ DELETE /api/v1/alunos/{id}
 
 **Ariel Melo (Full Stack Developer)**  
 📧 [ariel.melo2001@gmail.com](mailto:ariel.melo2001@gmail.com)  
-🌐 [linkedin.com/in/arielmelo](https://linkedin.com/in/arielmello04)  
+🌐 [linkedin.com/in/arielmello04](https://linkedin.com/in/arielmello04)  
 💻 *"Código limpo, escalável e com propósito."*
 
 ---
